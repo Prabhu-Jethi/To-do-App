@@ -15,3 +15,11 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
+## Backend Scripts
+
+For backend, you can run:
+
+### `npm run dev`
+
+Runs the backend server in
+Open [mongodb://localhost:27017/todo_db]
